@@ -1,0 +1,166 @@
+.card-base {
+    height: 100px;
+    width: 100px;
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 2px solid #3ed4ed;
+    border-radius: 5px; /* 5px rounded corners */
+}
+
+.memory_cards_line1 {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    height: 100px;
+    width: 100px;
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 2px solid #3ed4ed;
+    border-radius: 5px; /* 5px rounded corners */
+}
+
+.memory_cards_line2 {
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    height: 100px;
+    width: 100px;
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 2px solid #3ed4ed;
+    border-radius: 5px; /* 5px rounded corners */
+}
+
+.memory_cards_line3 {
+    position: absolute;
+    top: 400px;
+    left: 100px;
+    height: 100px;
+    width: 100px;
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 2px solid #3ed4ed;
+    border-radius: 5px; /* 5px rounded corners */
+}
+
+.memory_cards_line4 {
+    position: absolute;
+    top: 550px;
+    left: 100px;
+    height: 100px;
+    width: 100px;
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 2px solid #3ed4ed;
+    border-radius: 5px; /* 5px rounded corners */
+
+}
+
+.memory_cards_back_line1 {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    height: 100px;
+    width: 100px;
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 2px solid #3ed4ed;
+    border-radius: 5px; /* 5px rounded corners */
+}
+
+.memory_cards_back_line2 {
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    height: 100px;
+    width: 100px;
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 2px solid #3ed4ed;
+    border-radius: 5px; /* 5px rounded corners */
+}
+
+.memory_cards_back_line3 {
+    position: absolute;
+    top: 400px;
+    left: 100px;
+    height: 100px;
+    width: 100px;
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 2px solid #3ed4ed;
+    border-radius: 5px; /* 5px rounded corners */
+    
+}
+
+.memory_cards_back_line4 {
+    position: absolute;
+    top: 550px;
+    left: 100px;
+    height: 100px;
+    width: 100px;
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 2px solid #3ed4ed;
+    border-radius: 5px; /* 5px rounded corners */
+}
+
+
+.memory-card {
+    height: 100px;
+    width: 100px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #008B8B;
+    float: left;
+    margin: 5px 5px 5px 5px;
+
+}
+.memory-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.memory-card-back {
+    height: 100px;
+    width: 100px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: red;
+    float: left;
+    margin: 5px 5px 5px 5px;
+
+}
+
+.memory-card-back:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+.square-back-image {
+    position: absolute;
+    left:10px;
+    top:100px;
+    width:200px;
+    height:300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.square-image {
+    position: absolute;
+    left:10px;
+    top:100px;
+    width:200px;
+    height:300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}

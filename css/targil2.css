@@ -1,0 +1,25 @@
+.centerblock {
+    background-color: red;
+    padding-top: 100px;
+}
+ 
+.square-back-image {
+    position: absolute;
+    left:10px;
+    top:100px;
+    width:200px;
+    height:300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.square-image {
+    position: absolute;
+    left:10px;
+    top:100px;
+    width:200px;
+    height:300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background:rgb(47, 255, 147);
+}
